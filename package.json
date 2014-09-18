@@ -1,0 +1,11 @@
+{
+  "name": "sunburst-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Sunburst syntax theme based on the TextMate Sunburst theme",
+  "repository": "https://github.com/englercj/atom-sunburst-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.99.0"
+  }
+}
